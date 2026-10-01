@@ -1,0 +1,9 @@
+tensorflow
+pandas
+numpy
+notebook
+tqdm
+ipywidgets
+pillow
+scikit-learn
+opencv-contrib-python<5

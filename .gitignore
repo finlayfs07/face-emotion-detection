@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Dataset (too large, download from Kaggle)
+images/
+
+# Old/duplicate model files
+emotiondetector.h5
+emotiondetector.json
+*.h5
+
+# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+Thumbs.db
